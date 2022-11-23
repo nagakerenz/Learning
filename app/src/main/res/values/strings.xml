@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world"></string>
+    <string name="our">OUR</string>
+    <string name="RECIPES">RECIPES</string>
+    <string name="OUR">OUR</string>
+</resources>
